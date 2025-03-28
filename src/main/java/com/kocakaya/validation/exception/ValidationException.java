@@ -1,4 +1,4 @@
-package com.kocakaya.validation;
+package com.kocakaya.validation.exception;
 
 import lombok.Getter;
 

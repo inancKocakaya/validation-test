@@ -1,4 +1,4 @@
-package com.kocakaya.validation;
+package com.kocakaya.validation.tooling;
 
 import lombok.Getter;
 import lombok.Setter;

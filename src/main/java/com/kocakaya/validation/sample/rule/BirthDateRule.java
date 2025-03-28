@@ -1,4 +1,7 @@
-package com.kocakaya.validation;
+package com.kocakaya.validation.sample.rule;
+
+import com.kocakaya.validation.tooling.ValidationRule;
+import com.kocakaya.validation.sample.Customer;
 
 import java.time.LocalDate;
 

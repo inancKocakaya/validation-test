@@ -1,5 +1,7 @@
-package com.kocakaya.validation;
+package com.kocakaya.validation.sample;
 
+import com.kocakaya.validation.sample.rule.BirthDateRule;
+import com.kocakaya.validation.tooling.CheckWith;
 import jakarta.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

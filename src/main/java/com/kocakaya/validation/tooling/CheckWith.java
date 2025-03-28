@@ -1,4 +1,4 @@
-package com.kocakaya.validation;
+package com.kocakaya.validation.tooling;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.ConstraintValidator;
