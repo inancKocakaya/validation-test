@@ -17,7 +17,5 @@ public class RulesValidator {
         if (!constraintViolations.isEmpty()) {
             throw new ValidationException(constraintViolations.stream().map(ConstraintViolation::getMessage).toList());
         }
-
-
     }
 }
