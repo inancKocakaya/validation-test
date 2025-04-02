@@ -1,9 +1,9 @@
 package com.kocakaya.validation;
 
+import com.kocakaya.validation.exception.ValidationException;
 import com.kocakaya.validation.sample.Address;
 import com.kocakaya.validation.sample.Customer;
 import com.kocakaya.validation.tooling.RulesValidator;
-import com.kocakaya.validation.tooling.ValidationException;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,5 +1,6 @@
 package com.kocakaya.validation.tooling;
 
+import com.kocakaya.validation.exception.ValidationException;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validator;
 import lombok.AllArgsConstructor;
